@@ -1,0 +1,8 @@
+#Activision Blizzard
+getSymbols("ATVI",src="yahoo",from="2020-04-06",to="2021-11-10") 
+#S&P 500
+getSymbols("^GSPC",src="yahoo",from="2020-04-06",to="2021-11-10") 
+#NASDAQ Composite
+getSymbols("^IXIC",src="yahoo",from="2020-04-06",to="2021-11-10") 
+#NASDAQ 100 Equal-Weight
+getSymbols("^NDXE",src="yahoo",from="2020-04-06",to="2021-11-10") 
